@@ -1,0 +1,9 @@
+{
+  "name": "Samarth Kisan ",
+  "description": "A low-tech, alert-driven crop lifecycle decision support system for Indian farmers, providing clear Green/Yellow/Red signals based on weather and growth stages.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ]
+}
